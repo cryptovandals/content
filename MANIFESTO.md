@@ -1,20 +1,19 @@
 # A CryptoVandals Manifesto
 
-
 ## 1. The gap between the physical world and the digital world is closing.
 
-In the early days of the internet, you could make a distinction between the real world and digital world. We went by our handles, and spending time with internet people was considered weird.
+In the early days of the internet, there was a gap between IRL and online. We went by our handles. If you spent time with internet people, you were weird.
 
-Times have changed. We are living more and more of our lives on the internet. The argument that something isn't "real" because it only happens online doesn't carry much weight anymore.
+Times have changed. Now we live our lives on the internet. Social media has real name policies. We date internet strangers. The "digital world" and the "physical world" have merged. Now they're just the world.
 
-## 2. Digital ownership is as real as physical ownership.
+## 2. Digital ownership is just as real as physical ownership.
 
-The idea of digital ownership didn't make much sense when anything could be copied. Media companies tried and failed to restrict copying with DRM and spyware, but copying persisted... until blockchains made digital ownership without licensing real.
+Digital ownership didn't make much sense when anything could be copied. Media companies tried and failed to stop copying with DRM and spyware.
 
-## 3. Digital ownership should give at least the same rights as physical ownership.
+Blockchains changed all that. They make digital ownership real, even without a licensing agreement.
 
-Digital ownership hasn't been real ownership. It has been based on licenses. Typically, licenses gave fewer rights than physical ownership. They controlled what we could do with our stuff, or even let the real owners take our stuff away.
+## 3. Digital ownership should give at least the same rights as physical ownership... maybe more.
 
-As a baseline, digital ownership should give us the same rights we have over physical things. We should be able to have it, keep it, share it, or destroy it. 
+As a baseline, digital ownership should give us the same rights we have over physical things. We should be able to have it, keep it, share it, or destroy it.
 
-Digital ownership also offers opportunities for new kinds of user rights that wouldn't make sense for physical ownership. We should explore those new capabilities as well.
+Digital ownership could even unlock new kinds of rights that wouldn't make sense for physical ownership. Digital ownership should make room for these new kinds of rights whenever possible.
