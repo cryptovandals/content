@@ -1,9 +1,9 @@
 # 🌎🏛 CRYPTOVANDALS TERMS 🏛🌏
 
 ## 🎪🎨 WTF IS CRYPTOVANDALS 🎨🎪
-CryptoVandals is a tool to liberate your NFTs. It lets you liberate or vandalize ERC-721 NFTs you own. The original NFT is burned and you are minted a fancy new liberated NFT or vandalized NFT linked to the original.
+CryptoVandals is a tool that lets you liberate or vandalize ERC-721 NFTs you own. The original NFT is burned and you are minted a fancy new liberated NFT or vandalized NFT linked to the original.
 A **liberated NFT** has proprietary links and gateways replaced by open, accessible, and content addressed IPFS links.
-A **vandalized NFT** has the original linked content replaced by content of your choice.
+A **vandalized NFT** is also liberated, but has the original linked content replaced by linked content of your choice.
 
 ## ©️🏴‍☠️ INTELLECTUAL PROPERTY 🏴‍☠️©️
 You can only use CryptoVandals to liberate NFTs you own. There might be copyrighted or trademarked stuff in your NFTs... but you do own your NFT, right? Don’t violate copyright, citizen!
@@ -24,7 +24,7 @@ CryptoVandals takes privacy super seriously! But unlike everyone else who says t
 We don’t collect personal data or use any cookies on our website. There may be some logs somewhere, but we don't use them.
 
 ## 🔒🗝 KEYS 🗝🔓
-CryptoVandals will never ask for your private keys. We use Metamask to view, liberate, or vandalize the NFTs in your wallet.
+CryptoVandals will never ask for your private keys. It uses Metamask to view, liberate, or vandalize the NFTs in your wallet.
 
 ## 💾🔗 ETHEREUM AND IPFS 🔗💾
 Assume anything you write to IPFS or the Ethereum blockchain will be there forever, or until the world ends, whichever comes sooner. We can’t do anything about that.
