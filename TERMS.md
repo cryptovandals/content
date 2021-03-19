@@ -1,6 +1,6 @@
 # 🌎🏛 CRYPTOVANDALS TERMS 🏛🌏
 
-## 🎪🎨 WTF IS CRYPTOVANDALS 🎨🎪
+## 🎪🎨 WTF IS CRYPTOVANDALS? 🎨🎪
 CryptoVandals is a tool that lets you liberate or vandalize ERC-721 NFTs you own. The original NFT is burned and you are minted a fancy new liberated NFT or vandalized NFT linked to the original.
 A **liberated NFT** has proprietary links and gateways replaced by open, accessible, and content addressed IPFS links.
 A **vandalized NFT** is also liberated, but has the original linked content replaced by linked content of your choice.
@@ -9,7 +9,7 @@ A **vandalized NFT** is also liberated, but has the original linked content repl
 You can only use CryptoVandals to liberate NFTs you own. There might be copyrighted or trademarked stuff in your NFTs... but you do own your NFT, right? Don’t violate copyright, citizen!
 
 ## 💰💸 PROPERTY 💸💰
-You own your liberated NFTs. You can do whatever you want with them. If you sell it you can keep what you earn, don't forget us when you're rich.
+You own your liberated NFTs. You can do whatever you want with them. If you sell it you can keep what you earn, but don't forget us when you're rich.
 
 ## ⚰️💣 WARNINGS 💣⚰️
 Using CryptoVandals burns the original NFT by transferring it to a [null address](https://etherscan.io/address/0x0000000000000000000000000000000000000001). This can't be undone.
